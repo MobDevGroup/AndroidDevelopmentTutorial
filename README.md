@@ -33,3 +33,7 @@
 ## 个人博客
 | 博客名称 | 博客地址 | 博客介绍 |
 |--------|---------|--------|
+|[Trinea](http://www.trinea.cn/)|<http://www.trinea.cn/>|国内的Android大神Trinea博客，为开源社区做出了许多贡献，他整理的Android开源项目分类汇总使许多开发者从中受益，他发起的开源项目源代码分析活动如今也完成了第一阶段。|
+|[stormzhang](http://www.stormzhang.com/)|<http://www.stormzhang.com/>|国内另一大神的博客，其文章深受开发者欢迎。|
+|[代码家的博客](http://blog.daimajia.com/)|<http://blog.daimajia.com>|国内另一Android大神的技术博客，开源了许多不错的库。|
+|[lightSky的博客](http://www.lightskystreet.com/)|<http://www.lightskystreet.com/>|博客网站也有许多干货|
