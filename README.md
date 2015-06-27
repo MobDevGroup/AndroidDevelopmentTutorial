@@ -29,6 +29,7 @@
 |[Android training中文翻译](http://hukai.me/android-training-course-in-chinese/index.html)|<http://hukai.me/android-training-course-in-chinese/index.html>|国内大神胡凯发起的Android Training开源协作翻译的项目，主要针对Google Android团队在2012年的时候开设了的Android Training板块。|
 |[material design UI](https://github.com/wasabeef/awesome-android-ui)|<https://github.com/wasabeef/awesome-android-ui>|一组Android材料设计的UI库，但随着谷歌最新support包的发布开始在低版本手机上支持材料设计，这对开发者来讲无疑是一个好消息。|
 |[Android Weekly](http://androidweekly.net/)|<http://androidweekly.net/>|国外Android周报，知乎上有翻译版本|
+|[androiddesignpatterns](http://www.androiddesignpatterns.com/)|<http://www.androiddesignpatterns.com/>|Android设计模式。|
 
 ## 个人博客
 | 博客名称 | 博客地址 | 博客介绍 |
@@ -37,3 +38,14 @@
 |[stormzhang](http://www.stormzhang.com/)|<http://www.stormzhang.com/>|国内另一大神的博客，其文章深受开发者欢迎。|
 |[代码家的博客](http://blog.daimajia.com/)|<http://blog.daimajia.com>|国内另一Android大神的技术博客，开源了许多不错的库。|
 |[lightSky的博客](http://www.lightskystreet.com/)|<http://www.lightskystreet.com/>|博客有许多不错的文章，其中我们熟知的Awesome-MaterialDesign开源项目也是出自他|
+
+## 源码分享
+| 站点名称 | 站点地址 | 站点介绍 |
+|--------|---------|--------|
+|[AndroidXRef](http://androidxref.com/)|<http://androidxref.com/>|包含Android不同版本源代码，是学习Android源码的不错站点。|
+|[grepcode](http://grepcode.com/)|<http://grepcode.com/>|java源代码搜索引擎，这里有Android各个系统版本源代码。|
+|[23code](http://www.23code.com/)|<http://www.23code.com/>|一个Android经典源代码分享站|
+|[修炼源码](http://www.94ifeng.com/)|<http://www.94ifeng.com/>|专注于Android开发技术的资源站。|
+|[踏得网](http://www.techbrood.com/)|<http://www.techbrood.com/>|联网新技术搜索和分享,为未翻墙用户提供了便捷。|
+|[Java Examples](http://www.javased.com/)|<http://www.javased.com/>|国外的一个java在线实例搜索引擎，获取常用的java API 以及流行库。|
+|[codota](http://www.codota.com/)|<http://www.codota.com/>|超过7百万个Android源代码实例，是学习Android源代码不可或缺的工具。|
