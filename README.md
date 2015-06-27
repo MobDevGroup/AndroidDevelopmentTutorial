@@ -67,7 +67,7 @@
 | 站点名称 | 站点地址 | 站点介绍 |
 |--------|---------|--------|
 |[Google Design](http://www.google.com/design/)|<http://www.google.com/design/>|谷歌官方设计指南。|
-|[MOBILE PATTERNS](http://www.mobile-patterns.com/android/recently-added)|<http://www.mobile-patterns.com/android/recently-added>|
+|[MOBILE PATTERNS](http://www.mobile-patterns.com/android/recently-added)|<http://www.mobile-patterns.com/android/recently-added>|移动App设计，汇集了大量的UI界面供移动产品和设计人员参考学习。|
 |[balsamiq](http://webdemo.balsamiq.com/)|<http://webdemo.balsamiq.com/>|在线产品原型设计工具。|
 |[UI中国](http://www.ui.cn/)|<http://www.ui.cn/>|国内一家专业设计交互平台，其前身是iconfans.com。|
 |[easyicon](http://www.easyicon.net/)|<http://www.easyicon.net/  >|图标下载网站。|
