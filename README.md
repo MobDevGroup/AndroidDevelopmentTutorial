@@ -18,3 +18,9 @@
 |--------|---------|--------|
 |[eoeAndroid](http://www.eoeandroid.com/)|<http://www.eoeandroid.com/>|国内最早一批Android开发论坛，如今已有百万用户，里面有不少实例demo|
 |[APKBUS安卓巴士](http://www.apkbus.com/)|<http://www.apkbus.com/>|国内最早的一批Android开发者论坛,改版后，分类更加清晰|
+|[开源中国Android专区](http://www.oschina.net/android)|<http://www.oschina.net/android>|国内开源老大哥，许多喜欢开源的朋友都会常驻在此>|
+|[CSDN移动版块](http://blog.csdn.net/mobile/index.html)|<http://blog.csdn.net/mobile/index.html>|全球最大的中文技术社区，其移动博客专栏经常会有不错的文章更新出来|
+|[Android中文专业社区](http://www.androidcn.org/)|<http://www.androidcn.org/>|刚起步，但是很看好|
+|[V2EX](http://www.v2ex.com/)|<http://www.v2ex.com/>|国内少有的论坛，其做技术社区的态度吸引着越来越多的开发者|
+|[AndroidoDevTools](http://www.androiddevtools.cn/)|<http://www.androiddevtools.cn/>|这里几乎能找到我们在Android开发过程中需要的大部分工具。|
+|
