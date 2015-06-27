@@ -13,7 +13,7 @@
 |[Android官方开发指南](https://developer.android.com/intl/zh-cn/develop/index.html)|<https://developer.android.com/intl/zh-cn/develop/index.html>|Android 入门，API使用指南，API查阅参考，相关开发工具介绍，Google服务，官方给出的实例(Samples),以及每年Google I/O大会发布的预览版Android系统，需借助VPN翻墙。|
 |[Android官方分发指南](https://developer.android.com/intl/zh-cn/distribute/index.html)|<https://developer.android.com/intl/zh-cn/distribute/index.html>|Google play,以及如何开发一款成功的App，和如何用App来吸引并留住用户，App的盈利，数据分析，还有就是开发者故事。|
 
-## 国内技术论坛
+## 相关技术论坛站点
 | 站点名称 | 站点地址 | 站点介绍 |
 |--------|---------|--------|
 |[eoeAndroid](http://www.eoeandroid.com/)|<http://www.eoeandroid.com/>|国内最早一批Android开发论坛，如今已有百万用户，里面有不少实例demo|
@@ -23,4 +23,13 @@
 |[Android中文专业社区](http://www.androidcn.org/)|<http://www.androidcn.org/>|刚起步，但是很看好|
 |[V2EX](http://www.v2ex.com/)|<http://www.v2ex.com/>|国内少有的论坛，其做技术社区的态度吸引着越来越多的开发者|
 |[AndroidoDevTools](http://www.androiddevtools.cn/)|<http://www.androiddevtools.cn/>|这里几乎能找到我们在Android开发过程中需要的大部分工具。|
-|
+|[codekk](http://www.trinea.cn/)|<http://www.trinea.cn/>|开源项目源码分析,不错的学习站点。|
+|[android-arsenal](http://android-arsenal.com/)|<http://android-arsenal.com/>|国外搜集的Android实例站点,里面有很多不错的demo|
+|[material design中文版](http://design.1sters.com/)|<http://design.1sters.com/>|谷歌材料设计中文版站点,由国内开发者组织翻译。|
+|[Android training中文翻译](http://hukai.me/android-training-course-in-chinese/index.html)|<http://hukai.me/android-training-course-in-chinese/index.html>|国内大神胡凯发起的Android Training开源协作翻译的项目，主要针对Google Android团队在2012年的时候开设了的Android Training板块。|
+|[material design UI](https://github.com/wasabeef/awesome-android-ui)|<https://github.com/wasabeef/awesome-android-ui>|一组Android材料设计的UI库，但随着谷歌最新support包的发布开始在低版本手机上支持材料设计，这对开发者来讲无疑是一个好消息。|
+|[Android Weekly](http://androidweekly.net/)|<http://androidweekly.net/>|国外Android周报，知乎上有翻译版本|
+
+## 个人博客
+| 博客名称 | 博客地址 | 博客介绍 |
+|--------|---------|--------|
