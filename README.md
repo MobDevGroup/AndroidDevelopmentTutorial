@@ -18,7 +18,7 @@
 |--------|---------|--------|
 |[eoeAndroid](http://www.eoeandroid.com/)|<http://www.eoeandroid.com/>|国内最早一批Android开发论坛，如今已有百万用户，里面有不少实例demo|
 |[APKBUS安卓巴士](http://www.apkbus.com/)|<http://www.apkbus.com/>|国内最早的一批Android开发者论坛,改版后，分类更加清晰|
-|[开源中国Android专区](http://www.oschina.net/android)|<http://www.oschina.net/android>|国内开源老大哥，许多喜欢开源的朋友都会常驻在此>|
+|[开源中国Android专区](http://www.oschina.net/android)|<http://www.oschina.net/android>|国内开源老大哥，许多喜欢开源的朋友都会常驻在此|
 |[CSDN移动版块](http://blog.csdn.net/mobile/index.html)|<http://blog.csdn.net/mobile/index.html>|全球最大的中文技术社区，其移动博客专栏经常会有不错的文章更新出来|
 |[Android中文专业社区](http://www.androidcn.org/)|<http://www.androidcn.org/>|刚起步，但是很看好|
 |[V2EX](http://www.v2ex.com/)|<http://www.v2ex.com/>|国内少有的论坛，其做技术社区的态度吸引着越来越多的开发者|
@@ -36,4 +36,4 @@
 |[Trinea](http://www.trinea.cn/)|<http://www.trinea.cn/>|国内的Android大神Trinea博客，为开源社区做出了许多贡献，他整理的Android开源项目分类汇总使许多开发者从中受益，他发起的开源项目源代码分析活动如今也完成了第一阶段。|
 |[stormzhang](http://www.stormzhang.com/)|<http://www.stormzhang.com/>|国内另一大神的博客，其文章深受开发者欢迎。|
 |[代码家的博客](http://blog.daimajia.com/)|<http://blog.daimajia.com>|国内另一Android大神的技术博客，开源了许多不错的库。|
-|[lightSky的博客](http://www.lightskystreet.com/)|<http://www.lightskystreet.com/>|博客网站也有许多干货|
+|[lightSky的博客](http://www.lightskystreet.com/)|<http://www.lightskystreet.com/>|博客有许多不错的文章，其中我们熟知的Awesome-MaterialDesign开源项目也是出自他|
