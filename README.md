@@ -49,3 +49,33 @@
 |[踏得网](http://www.techbrood.com/)|<http://www.techbrood.com/>|联网新技术搜索和分享,为未翻墙用户提供了便捷。|
 |[Java Examples](http://www.javased.com/)|<http://www.javased.com/>|国外的一个java在线实例搜索引擎，获取常用的java API 以及流行库。|
 |[codota](http://www.codota.com/)|<http://www.codota.com/>|超过7百万个Android源代码实例，是学习Android源代码不可或缺的工具。|
+
+## 综合其他
+| 站点名称 | 站点地址 | 站点介绍 |
+|--------|---------|--------|
+|[开发技术前线](http://www.devtf.cn/)|<http://www.devtf.cn/>|汇集了Android和IOS开发的技术文章，里面大多数文章都总结的不错，适合开发者进阶。|
+|[DevDiv](http://www.devdiv.com/)|<http://www.devdiv.com/>|国内移动开发综合社区，集Android、IOS、Windows Phone于一体|
+|[Appetize](https://appetize.io/)|<https://appetize.io/>|Android和IOS在线模拟器|
+|[screensiz.es](http://screensiz.es/phone)|<http://screensiz.es/phone>|国外整理的智能手机市场占有率机碎片化数据报告。|
+|[Android2014年碎片化报告](http://opensignal.com/reports/2014/android-fragmentation/)|<http://opensignal.com/reports/2014/android-fragmentation/>|Android历年碎片化报告。|
+|[爱开发](http://www.akaifa.com/)|<http://www.akaifa.com/>|爱开发者社区，国内的开发者服务平台，提供大量的模块供开发者使用，大大提高了App的开发效率。|
+|[百度API Store](http://apistore.baidu.com/)|<http://apistore.baidu.com/>|百度开发者服务平台，已汇集国内外众多开发者服务。|
+|[3G 4G Map](http://opensignal.com/)|<http://opensignal.com/>|3G、4G蜂窝网络覆盖地图。|
+|[干货集中营](http://gank.io/)|<http://gank.io/>|刚刚建立的网站，分享移动开发IOS和Android的干货。|
+
+## 移动设计
+| 站点名称 | 站点地址 | 站点介绍 |
+|--------|---------|--------|
+|[Google Design](http://www.google.com/design/)|<http://www.google.com/design/>|谷歌官方设计指南。|
+|[MOBILE PATTERNS](http://www.mobile-patterns.com/android/recently-added)|<http://www.mobile-patterns.com/android/recently-added>|
+|[balsamiq](http://webdemo.balsamiq.com/)|<http://webdemo.balsamiq.com/>|在线产品原型设计工具。|
+|[UI中国](http://www.ui.cn/)|<http://www.ui.cn/>|国内一家专业设计交互平台，其前身是iconfans.com。|
+|[easyicon](http://www.easyicon.net/)|<http://www.easyicon.net/  >|图标下载网站。|
+|[pixabay](http://pixabay.com/)|<http://pixabay.com/>|这里有可以在任何地方使用的免费高清图片。共有约400000张免费的照片、矢量文件和艺术插图，寻找免费且高质量的图片是件单调乏味的任务-主要是源于版权问题，署名要求或仅仅是因为图片质量不够。因此深受启发而创立了Pixabay-一间超高质量且无版权限制的图片的贮藏室。这里是设计师下载免费向量图，插图以及照片的最佳来源。|
+|[iconfinder](https://www.iconfinder.com/)|<https://www.iconfinder.com/>|图标搜索工具。|
+|[UI社](http://www.uishe.cn/)|<http://www.uishe.cn/>|号称中国最好的UI设计素材资源网站。汇集了大量的UI素材。|
+|[tinypng](https://tinypng.com/)|<https://tinypng.com/>|在线png图片压缩网站。|
+|[androidicon](http://www.androidicons.com/)|<http://www.androidicons.com/>|Android图标素材下载站。这里可以找到你所需要的大部分图标。|
+|[dribbble](https://dribbble.com/)|<https://dribbble.com/>|正如他们网站下方介绍的那样：Dribbble 是一个设计师分享他们工作快照，进度，项目的社区。在国外还是很出名的网站。|
+|[capptivate](http://capptivate.co/)|<http://capptivate.co/>|国外又一个App设计网站,做移动App设计的朋友可以常来看看。|
+|[pttrns](http://pttrns.com/)|<http://pttrns.com/>|Pttrns是一个设计模式，资源，灵感汇集的站点，在这里可以找到设计的灵感。|
