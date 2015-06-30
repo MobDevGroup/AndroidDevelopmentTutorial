@@ -70,7 +70,7 @@
 |[MOBILE PATTERNS](http://www.mobile-patterns.com/android/recently-added)|<http://www.mobile-patterns.com/android/recently-added>|移动App设计，汇集了大量的UI界面供移动产品和设计人员参考学习。|
 |[balsamiq](http://webdemo.balsamiq.com/)|<http://webdemo.balsamiq.com/>|在线产品原型设计工具。|
 |[UI中国](http://www.ui.cn/)|<http://www.ui.cn/>|国内一家专业设计交互平台，其前身是iconfans.com。|
-|[easyicon](http://www.easyicon.net/)|<http://www.easyicon.net/  >|图标下载网站。|
+|[easyicon](http://www.easyicon.net/)|<http://www.easyicon.net>|图标下载网站。|
 |[pixabay](http://pixabay.com/)|<http://pixabay.com/>|这里有可以在任何地方使用的免费高清图片。共有约400000张免费的照片、矢量文件和艺术插图，寻找免费且高质量的图片是件单调乏味的任务-主要是源于版权问题，署名要求或仅仅是因为图片质量不够。因此深受启发而创立了Pixabay-一间超高质量且无版权限制的图片的贮藏室。这里是设计师下载免费向量图，插图以及照片的最佳来源。|
 |[iconfinder](https://www.iconfinder.com/)|<https://www.iconfinder.com/>|图标搜索工具。|
 |[UI社](http://www.uishe.cn/)|<http://www.uishe.cn/>|号称中国最好的UI设计素材资源网站。汇集了大量的UI素材。|
