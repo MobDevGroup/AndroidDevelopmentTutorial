@@ -63,6 +63,7 @@
 |[3G 4G Map](http://opensignal.com/)|<http://opensignal.com/>|3G、4G蜂窝网络覆盖地图。|
 |[干货集中营](http://gank.io/)|<http://gank.io/>|刚刚建立的网站，分享移动开发IOS和Android的干货。|
 |[慕课网](http://www.imooc.com/)|<http://www.imooc.com/>|国内专注做IT技能教育的课程网站，上面提供许多不错的在线课程|
+|[极客学院](http://www.jikexueyuan.com/)|<http://www.jikexueyuan.com/>|专业的在线IT技术课程，第一时间发布最新的技术课程，目前已累计百万用户。|
 
 ## 移动设计
 | 站点名称 | 站点地址 | 站点介绍 |
