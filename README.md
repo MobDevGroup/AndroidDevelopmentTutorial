@@ -38,6 +38,7 @@
 |[stormzhang](http://www.stormzhang.com/)|<http://www.stormzhang.com/>|国内另一大神的博客，其文章深受开发者欢迎。|
 |[代码家的博客](http://blog.daimajia.com/)|<http://blog.daimajia.com>|国内另一Android大神的技术博客，开源了许多不错的库。|
 |[lightSky的博客](http://www.lightskystreet.com/)|<http://www.lightskystreet.com/>|博客有许多不错的文章，其中我们熟知的Awesome-MaterialDesign开源项目也是出自他|
+|[android studio学习教程](http://ask.android-studio.org/?/explore/)|<http://ask.android-studio.org/?/explore/>|很不错的Android Studio学习教程，同时也有gradle教程，一开始从eclipse转过来可以看看。|
 
 ## 源码分享
 | 站点名称 | 站点地址 | 站点介绍 |
