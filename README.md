@@ -65,10 +65,10 @@
 |[干货集中营](http://gank.io/)|<http://gank.io/>|刚刚建立的网站，分享移动开发IOS和Android的干货。|
 |[慕课网](http://www.imooc.com/)|<http://www.imooc.com/>|国内专注做IT技能教育的课程网站，上面提供许多不错的在线课程|
 |[极客学院](http://www.jikexueyuan.com/)|<http://www.jikexueyuan.com/>|专业的在线IT技术课程，第一时间发布最新的技术课程，目前已累计百万用户。|
-|稀土掘金(http://gold.xitu.io/)|<http://gold.xitu.io/>|一个人人都可以推荐分享互联网知识的平台，里面有很多干货。|
-|开发者头条(http://toutiao.io/)|<http://toutiao.io>|<码农周刊>创办者，开发者的首选阅读分享平台,里面也有很多干货。|
-|ChinaGDG(http://chinagdg.org/)|<http://chinagdg.org/>|Google中国开发者组织，包含社区博客、技术资源、各地 GDG 信息和发展历史，以及其他项目资源。
-|麦子学院(http://www.maiziedu.com/)|<http://www.maiziedu.com/>|在线的IT职业教育平台，提供多种技术在线学习。|
+|[稀土掘金](http://gold.xitu.io/)|<http://gold.xitu.io/>|一个人人都可以推荐分享互联网知识的平台，里面有很多干货。|
+|[开发者头条](http://toutiao.io/)|<http://toutiao.io>|<码农周刊>创办者，开发者的首选阅读分享平台,里面也有很多干货。|
+|[ChinaGDG](http://chinagdg.org/)|<http://chinagdg.org/>|Google中国开发者组织，包含社区博客、技术资源、各地 GDG 信息和发展历史，以及其他项目资源。
+|[麦子学院](http://www.maiziedu.com/)|<http://www.maiziedu.com/>|在线的IT职业教育平台，提供多种技术在线学习。|
 
 ## 移动设计
 | 站点名称 | 站点地址 | 站点介绍 |
