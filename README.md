@@ -30,6 +30,7 @@
 |[material design UI](https://github.com/wasabeef/awesome-android-ui)|<https://github.com/wasabeef/awesome-android-ui>|一组Android材料设计的UI库，但随着谷歌最新support包的发布开始在低版本手机上支持材料设计，这对开发者来讲无疑是一个好消息。|
 |[Android Weekly](http://androidweekly.net/)|<http://androidweekly.net/>|国外Android周报，知乎上有翻译版本|
 |[androiddesignpatterns](http://www.androiddesignpatterns.com/)|<http://www.androiddesignpatterns.com/>|Android设计模式。|
+|[CodePath](http://guides.codepath.com/android)|<http://guides.codepath.com/android>|很不错的一个国外Android开发视频教程。
 
 ## 个人博客
 | 博客名称 | 博客地址 | 博客介绍 |
