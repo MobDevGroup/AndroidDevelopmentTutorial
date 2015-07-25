@@ -31,7 +31,7 @@
 |[Android Weekly](http://androidweekly.net/)|<http://androidweekly.net/>|国外Android周报，知乎上有翻译版本|
 |[androiddesignpatterns](http://www.androiddesignpatterns.com/)|<http://www.androiddesignpatterns.com/>|Android设计模式。|
 |[CodePath](http://guides.codepath.com/android)|<http://guides.codepath.com/android>|很不错的一个国外Android开发教程网站。
-
+|[Android Tutorial](http://www.tutorialspoint.com/android/)|<http://www.tutorialspoint.com/android/>|同样是国外一个不错的Android自学网站。|
 ## 个人博客
 | 博客名称 | 博客地址 | 博客介绍 |
 |--------|---------|--------|
