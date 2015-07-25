@@ -41,6 +41,7 @@
 |[代码家的博客](http://blog.daimajia.com/)|<http://blog.daimajia.com>|国内另一Android大神的技术博客，开源了许多不错的库。|
 |[lightSky的博客](http://www.lightskystreet.com/)|<http://www.lightskystreet.com/>|博客有许多不错的文章，其中我们熟知的Awesome-MaterialDesign开源项目也是出自他|
 |[android studio学习教程](http://ask.android-studio.org/?/explore/)|<http://ask.android-studio.org/?/explore/>|很不错的Android Studio学习教程，同时也有gradle教程，一开始从eclipse转过来可以看看。|
+|[AndroidHive](http://www.androidhive.info/)|<http://www.androidhive.info/>|AndroidHive是一个个人博客，主要写Android开发的教程，虽然只是一个人，但却提供了绘图，到写教程，功能视频演示，也表现出了博主的专业与敬业，博主写的东西也是跟随新技术，可实用性特别强。|
 
 ## 源码分享
 | 站点名称 | 站点地址 | 站点介绍 |
