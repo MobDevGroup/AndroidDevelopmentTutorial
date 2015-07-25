@@ -30,8 +30,9 @@
 |[material design UI](https://github.com/wasabeef/awesome-android-ui)|<https://github.com/wasabeef/awesome-android-ui>|一组Android材料设计的UI库，但随着谷歌最新support包的发布开始在低版本手机上支持材料设计，这对开发者来讲无疑是一个好消息。|
 |[Android Weekly](http://androidweekly.net/)|<http://androidweekly.net/>|国外Android周报，知乎上有翻译版本|
 |[androiddesignpatterns](http://www.androiddesignpatterns.com/)|<http://www.androiddesignpatterns.com/>|Android设计模式。|
-|[CodePath](http://guides.codepath.com/android)|<http://guides.codepath.com/android>|很不错的一个国外Android开发教程网站。
-|[Android Tutorial](http://www.tutorialspoint.com/android/)|<http://www.tutorialspoint.com/android/>|同样是国外一个不错的Android自学网站。|
+|[CodePath](http://guides.codepath.com/android)|<http://guides.codepath.com/android>|CodePath是国外一个技术培训机构，主要培训iOS 和Android开发，而CodePath将Android Guides放在Github，已经获得了4000+个赞，对于Android初学这特别适合，而且浅显易懂。|
+|[Android Tutorial](http://www.tutorialspoint.com/android/)|<http://www.tutorialspoint.com/android/>|TutorialSpoint是一个专业的技术教程网站，基本上我们所熟知的热门技术，都能在这里找到教程，知识点覆盖的特别全，而且代码风格也很不错，同时也适合初学着；更人性化的是，所有教程提供离线PDF下载。|
+|[vogella](http://www.vogella.com/tutorials/android.html)|<vogella>|Vogella提供的Android开发教程也是可圈可点的，可能知识点覆盖不是特别全，但是单个知识点，Vogella讲解的还是很详细的。|
 ## 个人博客
 | 博客名称 | 博客地址 | 博客介绍 |
 |--------|---------|--------|
@@ -71,7 +72,7 @@
 |[ChinaGDG](http://chinagdg.org/)|<http://chinagdg.org/>|Google中国开发者组织，包含社区博客、技术资源、各地 GDG 信息和发展历史，以及其他项目资源。
 |[麦子学院](http://www.maiziedu.com/)|<http://www.maiziedu.com/>|在线的IT职业教育平台，提供多种技术在线学习。|
 |[好东西论坛](http://forum.memect.com/)|<http://forum.memect.com/>|国内一个不错的开发者日报订阅站点，涉及app,python,机器学习，大数据，web开发等多个方面|
-
+|[lynda](http://www.lynda.com/)|<http://www.lynda.com/>|Lynda是一个在线学习网站，该网站提供技术、设计等很多的课程。|
 ## 移动设计
 | 站点名称 | 站点地址 | 站点介绍 |
 |--------|---------|--------|
