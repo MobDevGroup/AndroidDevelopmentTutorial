@@ -97,3 +97,4 @@
 |[fribbble](http://fribbble.com/)|<http://fribbble.com/>|Dribbble设计师的免费素材，项目由 Gilbert Pellegrom 所策划|
 |[pixelbuddha](http://pixelbuddha.net/)|<http://pixelbuddha.net/>|为专业人士准备的设计素材，有免费的好资源，也有收费的进阶版。|
 |[墨刀](https://modao.cc/)|<https://modao.cc/>|移动在线产品设计，让创意十分钟呈现。|
+|[Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)|<https://romannurik.github.io/AndroidAssetStudio>|一系列工具可轻松生成资源，如Android应用程式的启动器图示。启动器图标生成器。|
